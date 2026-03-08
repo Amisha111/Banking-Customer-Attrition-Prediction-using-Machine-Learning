@@ -142,17 +142,6 @@ Connect `tableau_customer_risk.csv` as the main data source.
 
 ---
 
-## 💼 Resume Bullet Points
-
-- Conducted EDA on **10,000+ retail banking customers** to identify behavioral drivers of churn, uncovering complaint filing (67% churn) and inactivity (36% churn) as top predictors
-- Built predictive churn models using **Random Forest and Logistic Regression**, achieving **84% classification accuracy** and **AUC-ROC of 0.898** on held-out test data
-- Performed feature engineering creating **13 derived features** including EngagementScore, BalanceToSalaryRatio, and MultiProductInactive flags, improving model AUC by ~4%
-- Developed **15 production SQL queries** for churn segmentation, revenue impact analysis, and customer risk scoring with automated retention tier assignment
-- Identified **$1.72M annual revenue at risk** from high-probability churners, enabling prioritized outreach for 2,758 at-risk customers across France, Germany, and Spain
-- Designed **4 Tableau dashboard specifications** for churn risk monitoring, customer segmentation, and retention campaign targeting
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Tools |
