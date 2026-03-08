@@ -1,0 +1,2 @@
+# Banking-Customer-Attrition-Prediction-using-Machine-Learning
+Built a machine learning model to predict banking customer attrition using Python and SQL. Conducted EDA on customer transaction and demographic data, engineered behavioral features, and trained Logistic Regression and Random Forest models to identify high-risk customers. Insights supported data-driven retention strategies and customer segmentation
