@@ -1,10 +1,4 @@
-"""
-========================================================
-  BANKING CHURN — 01. EXPLORATORY DATA ANALYSIS
-========================================================
-Mirrors the EDA you would do on Kaggle's Churn_Modelling
-dataset. Generates 10 publication-quality charts.
-"""
+
 
 import pandas as pd
 import numpy as np
